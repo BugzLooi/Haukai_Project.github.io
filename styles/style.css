@@ -80,6 +80,14 @@ Menu_bar
     position: relative;
   }
 
+.menu-background-image-2
+{
+    background-image: url("../images/Menu_background.jpg"); 
+    background-size: cover;
+    height:auto;
+    width:auto;
+    position: relative;
+  }
   .menu-text-block
   {
     background-image: url("../images/Menu-text-background.jpg");
