@@ -1,0 +1,182 @@
+/* Style Sheet for Haukai Restaurant Project*/
+
+logo
+{
+    float: left;
+    padding: 5vw;
+}
+
+h1
+{
+    text-align:end;
+    padding: 5vw;
+}
+
+h2
+{
+    font-size: 3vw;
+}
+
+h3
+{
+    padding-top: 2vw;
+}
+
+h4
+{
+  padding-left:40vw
+}
+
+Menu_bar
+{
+    display: block;
+    padding: 20px;
+}
+
+.button
+{
+    background-color:rgb(19, 18, 18);
+    border: none;
+    color:white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+/*.main-background-image {
+    background-image: url("../images/Background_Koru.jpg"); 
+    background-size: cover;
+    height: 500px;
+    position: relative;
+  }*/
+
+  .intro-div
+  {
+    background-color:rgb(19, 18, 18);
+    height: fit-content;
+    border: none;
+    color:white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;  
+    margin: 2vw 5vw 2vw 5vw;  
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size:1.5vw;
+  }
+
+  .menu-background-image
+  {
+    background-image: url("../images/Menu_background.jpg"); 
+    background-size: cover;
+    height:auto;
+    width:auto;
+    position: relative;
+  }
+
+  .menu-text-block
+  {
+    background-image: url("../images/Menu-text-background.jpg");
+    float: left;
+    height:fit-content;
+    width:fit-content;
+    border: none;
+    color:maroon;
+    padding-top: 2vw;
+    text-align: center;
+    text-decoration:none;
+    border-radius: 10px;  
+    margin-left:5vw; 
+    margin-top: auto;
+    margin-bottom: 2vw;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size:100%;
+  }
+
+  li
+  {
+    list-style:none;
+  }
+
+  .li1
+  {
+    margin-left: 5vw;
+    text-align: left;
+  }
+
+  .li2
+  {
+    margin-right: 5vw;
+    float: right;
+  }
+
+  .column 
+  {
+    margin-top: 5vw;
+	  float:inline-end;
+    width: 20vw;
+    height: auto;
+	  padding: 20px;
+	}
+
+  nav
+  {
+    display:flex;
+  }
+
+  .reservation-div
+  {
+    border: none;
+    color:white;
+    height: fit-content;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;  
+    margin-left:5vw; 
+    margin-top: 2vw;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size:1.5vw;
+  }
+
+  .privacy-div
+  {
+    background-color:rgb(19, 18, 18);
+    height: fit-content;
+    border: none;
+    color:white;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;  
+    margin: 2vw 5vw 2vw 5vw;  
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size:1.5vw;
+  }
+
+  .vid-frame-style
+  {
+    width: 30vw;
+    height: 30vw;
+  }
+
+  .form-frame-style
+  {
+    width: 50vw;
+    height: 50vw;
+  }
+
+  
